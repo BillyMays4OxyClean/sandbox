@@ -1,3 +1,0 @@
-C:/Users/Luke/sandbox/Scripts/newproject/BUILD/CMakeFiles/newproject.dir
-C:/Users/Luke/sandbox/Scripts/newproject/BUILD/CMakeFiles/edit_cache.dir
-C:/Users/Luke/sandbox/Scripts/newproject/BUILD/CMakeFiles/rebuild_cache.dir
