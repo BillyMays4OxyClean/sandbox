@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\ArgTesting.dir/objects.a
-C:\ProgramData\chocolatey\bin\ar.exe qc CMakeFiles\ArgTesting.dir/objects.a @CMakeFiles\ArgTesting.dir\objects1.rsp
-C:\ProgramData\chocolatey\bin\c++.exe -Wl,--whole-archive CMakeFiles\ArgTesting.dir/objects.a -Wl,--no-whole-archive -o ArgTesting.exe -Wl,--out-implib,libArgTesting.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\ArgTesting.dir\linkLibs.rsp
