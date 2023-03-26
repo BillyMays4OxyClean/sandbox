@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.1)
+set(CMAKE_CXX_STANDARD 20)
+set(CMAKE_CXX_STANDARD_REQUIRED True)
+project(newproject)
+add_executable(newproject src/main.cpp)
