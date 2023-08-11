@@ -11,4 +11,7 @@ int main(int argc,char * argv[])
 	cout << string(argv[1]).at(0) << endl;
 	cout << string(argv[1]).at(1) << endl;
 	cout << string(argv[1]).substr(2,3) << endl;
+
+      for (int i = 0; i < argc; i++)
+            cout << argv[1][i] << ", ";
 }
