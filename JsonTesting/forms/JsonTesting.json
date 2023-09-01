@@ -1,0 +1,18 @@
+{
+    "Electronic Circuit": {
+        "Category": "Intermediate Products",
+        "Description": "",
+        "Name": "Electronic Circuit",
+        "Recipe": {
+            "Advanced": false,
+            "EndProductQuantity": 1,
+            "Ingredients": {
+                "Copper Cable": 3,
+                "Iron Plates": 1
+            },
+            "Name": "Electronic Circuit",
+            "ProductionTime": 0.5,
+            "RecipeDescription": ""
+        }
+    }
+}
